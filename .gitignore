@@ -1,0 +1,14 @@
+# Foundry
+out/
+cache/
+broadcast/
+
+# Dependency, installed via `forge install foundry-rs/forge-std`
+lib/
+
+# Env / secrets
+.env
+*.local
+
+# OS
+.DS_Store
